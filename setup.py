@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name='TestLibrary',  # How you named your package folder (MyLib)
-    packages=['TestLibrary'],  # Chose the same as "name"
+    name='TestLibrary_MR',  # How you named your package folder (MyLib)
+    packages=['TestLibrary_MR'],  # Chose the same as "name"
     version='0.1',  # Start with a small number and increase it with every change you make
     license='MIT',  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description='Just a test module',  # Give a short description about your library
