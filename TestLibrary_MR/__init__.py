@@ -1,1 +1,1 @@
-from TestLibrary_MR.test_class import TestAuthor
+from TestLibrary_MR.test_class import author_details
